@@ -74,3 +74,10 @@ rubocop
   │Client│          │Controller│          │Model│          │View│
   └──────┘          └──────────┘          └─────┘          └────┘
   ```
+User story 2
+
+```
+As a user
+So I can store bookmark data for later retrieval
+I want to add a bookmark to Bookmark Manager
+```
