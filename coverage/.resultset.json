@@ -35,11 +35,20 @@
         1,
         1,
         1,
+        null,
+        null,
+        null,
+        1,
+        null,
         1,
         1,
+        null,
         1,
+        null,
         1,
-        1,
+        null,
+        null,
+        null,
         null,
         null,
         null
@@ -67,6 +76,22 @@
         null,
         null
       ],
+      "/Users/adrienfabre/Projects/bookmark_manager/spec/features/deleting_bookmarks_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/adrienfabre/Projects/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": [
         1,
         null,
@@ -91,6 +116,6 @@
         null
       ]
     },
-    "timestamp": 1548950858
+    "timestamp": 1549028723
   }
 }
