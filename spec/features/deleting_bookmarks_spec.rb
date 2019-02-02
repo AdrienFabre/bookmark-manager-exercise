@@ -1,4 +1,3 @@
-require 'pg'
 
 feature 'Deleting a bookmark' do
   scenario 'A user delete a bookmark' do
