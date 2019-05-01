@@ -1,4 +1,12 @@
+### Makers software engineering bootcamp exercise - MVC - database - pairing
+
+---
+
+### To install dependencies
+
+````
 bundle
+````
 
 ### To set up the database
 
